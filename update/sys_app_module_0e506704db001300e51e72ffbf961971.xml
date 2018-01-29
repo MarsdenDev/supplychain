@@ -7,15 +7,15 @@
         <content_page/>
         <device_type/>
         <filter/>
-        <hint/>
+        <hint>Create a new record in the Supply Chain table</hint>
         <homepage/>
         <image/>
-        <link_type>LIST</link_type>
+        <link_type>NEW</link_type>
         <map_page/>
-        <mobile_title>Supply Chain Managements</mobile_title>
+        <mobile_title>Create new</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_177833_supply_ch_supply_chain_management</name>
-        <order/>
+        <order>100</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
@@ -24,21 +24,21 @@
         <survey_overwrite>true</survey_overwrite>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-01-26 14:56:36</sys_created_on>
+        <sys_created_on>2018-01-29 14:47:56</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>d436c0d7db330300e51e72ffbf9619b0</sys_id>
+        <sys_id>0e506704db001300e51e72ffbf961971</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Supply Chain Managements</sys_name>
+        <sys_name>Create new</sys_name>
         <sys_overrides/>
         <sys_package display_value="Supply Chain Management" source="x_177833_supply_ch">9ab54093db330300e51e72ffbf9619d2</sys_package>
         <sys_policy/>
         <sys_scope display_value="Supply Chain Management">9ab54093db330300e51e72ffbf9619d2</sys_scope>
-        <sys_update_name>sys_app_module_d436c0d7db330300e51e72ffbf9619b0</sys_update_name>
+        <sys_update_name>sys_app_module_0e506704db001300e51e72ffbf961971</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-01-26 14:56:36</sys_updated_on>
+        <sys_updated_on>2018-01-29 14:47:56</sys_updated_on>
         <timeline_page/>
-        <title>Supply Chain Managements</title>
+        <title>Create new</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

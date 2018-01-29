@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="Supply Chain Management" max_length="40" name="x_177833_supply_ch_supply_chain_management" type="collection">
+    <element audit="true" label="Supply Chain Management" max_length="40" name="x_177833_supply_ch_supply_chain_management" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Assignment group" mandatory="true" max_length="40" name="u_choice_scm_assignment_group" type="string">
             <choice>
                 <element label="Dist" sequence="0" value="scm_assignment_group_dist"/>
@@ -50,7 +51,7 @@
                 <element label="3" sequence="2" value="scm_priority_status_option3"/>
             </choice>
         </element>
-        <element attributes="edge_encryption_enabled=true" choice="1" default="scm_resolution_status_option1" label="Ticket status" max_length="40" name="u_choice_scm_resolution_status" read_only="true" type="string">
+        <element attributes="edge_encryption_enabled=true" choice="1" default="scm_resolution_status_option1" label="Ticket status" max_length="40" name="u_choice_scm_resolution_status" type="string">
             <choice>
                 <element label="Open" sequence="0" value="scm_resolution_status_option1"/>
                 <element label="Choice 2" sequence="1" value="scm_resolution_status_option2"/>
@@ -65,6 +66,7 @@
                 <element label="Other" sequence="3" value="scm_vendor_other"/>
             </choice>
         </element>
+        <element label="Journal notes" max_length="4000" name="u_journal_scm_journal1" read_only="true" type="journal"/>
         <element label="New Long" max_length="40" name="u_longint_19" type="longint"/>
         <element label="Assigned agent" mandatory="true" max_length="32" name="u_reference_scm_agent" reference="sys_user" type="reference"/>
         <element label="Requested for" mandatory="true" max_length="32" name="u_reference_scm_requested_for" reference="sys_user" type="reference"/>
