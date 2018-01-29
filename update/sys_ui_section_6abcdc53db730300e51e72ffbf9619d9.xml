@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Information" section_id="6abcdc53db730300e51e72ffbf9619d9" sys_domain="global" table="x_177833_supply_ch_supply_chain_management" version="3" view="Technician_View">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_choice_scm_company_code</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-26 16:39:03</sys_created_on>
+            <sys_id>c1ad5893db730300e51e72ffbf961981</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Information" display_value="Information" name="x_177833_supply_ch_supply_chain_management" sys_domain="global" view="a6bcdc53db730300e51e72ffbf9619d6">6abcdc53db730300e51e72ffbf9619d9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-26 16:39:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_choice_scm_issue_type</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-26 16:39:03</sys_created_on>
+            <sys_id>45ad5893db730300e51e72ffbf961981</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Information" display_value="Information" name="x_177833_supply_ch_supply_chain_management" sys_domain="global" view="a6bcdc53db730300e51e72ffbf9619d6">6abcdc53db730300e51e72ffbf9619d9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-26 16:39:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_scm_issue_type_reference</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-26 16:39:03</sys_created_on>
+            <sys_id>c5ad5893db730300e51e72ffbf961981</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Information" display_value="Information" name="x_177833_supply_ch_supply_chain_management" sys_domain="global" view="a6bcdc53db730300e51e72ffbf9619d6">6abcdc53db730300e51e72ffbf9619d9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-26 16:39:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_choice_scm_issue_category</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-26 16:39:03</sys_created_on>
+            <sys_id>49ad5893db730300e51e72ffbf961981</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Information" display_value="Information" name="x_177833_supply_ch_supply_chain_management" sys_domain="global" view="a6bcdc53db730300e51e72ffbf9619d6">6abcdc53db730300e51e72ffbf9619d9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-26 16:39:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_choice_scm_issue_category_sub</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-26 16:39:03</sys_created_on>
+            <sys_id>c9ad5893db730300e51e72ffbf961981</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Information" display_value="Information" name="x_177833_supply_ch_supply_chain_management" sys_domain="global" view="a6bcdc53db730300e51e72ffbf9619d6">6abcdc53db730300e51e72ffbf9619d9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-26 16:39:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-26 16:39:03</sys_created_on>
+            <sys_id>4dad5893db730300e51e72ffbf961981</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Information" display_value="Information" name="x_177833_supply_ch_supply_chain_management" sys_domain="global" view="a6bcdc53db730300e51e72ffbf9619d6">6abcdc53db730300e51e72ffbf9619d9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-26 16:39:03</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_scm_company_name</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-26 16:39:03</sys_created_on>
+            <sys_id>cdad5893db730300e51e72ffbf961981</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Information" display_value="Information" name="x_177833_supply_ch_supply_chain_management" sys_domain="global" view="a6bcdc53db730300e51e72ffbf9619d6">6abcdc53db730300e51e72ffbf9619d9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-26 16:39:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_choice_scm_department</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-26 16:39:03</sys_created_on>
+            <sys_id>41ad5893db730300e51e72ffbf961982</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Information" display_value="Information" name="x_177833_supply_ch_supply_chain_management" sys_domain="global" view="a6bcdc53db730300e51e72ffbf9619d6">6abcdc53db730300e51e72ffbf9619d9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-26 16:39:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_choice_scm_vendor</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-26 16:39:03</sys_created_on>
+            <sys_id>c1ad5893db730300e51e72ffbf961982</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Information" display_value="Information" name="x_177833_supply_ch_supply_chain_management" sys_domain="global" view="a6bcdc53db730300e51e72ffbf9619d6">6abcdc53db730300e51e72ffbf9619d9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-26 16:39:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_scm_vendor_other</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-26 16:39:03</sys_created_on>
+            <sys_id>45ad5893db730300e51e72ffbf961982</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Information" display_value="Information" name="x_177833_supply_ch_supply_chain_management" sys_domain="global" view="a6bcdc53db730300e51e72ffbf9619d6">6abcdc53db730300e51e72ffbf9619d9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-26 16:39:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Information</caption>
+            <header>false</header>
+            <name>x_177833_supply_ch_supply_chain_management</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-26 16:35:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6abcdc53db730300e51e72ffbf9619d9</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Information</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Supply Chain Management" source="x_177833_supply_ch">9ab54093db330300e51e72ffbf9619d2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Supply Chain Management">9ab54093db330300e51e72ffbf9619d2</sys_scope>
+            <sys_update_name>sys_ui_section_6abcdc53db730300e51e72ffbf9619d9</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-26 16:39:02</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Technician View" name="Technician_View">a6bcdc53db730300e51e72ffbf9619d6</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_choice_scm_issue_type" table="x_177833_supply_ch_supply_chain_management" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_scm_issue_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PO</label>
+            <language>en</language>
+            <name>x_177833_supply_ch_supply_chain_management</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-26 15:40:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6b40dcdbdb330300e51e72ffbf961945</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-26 15:40:47</sys_updated_on>
+            <value>scm_issue_type_po</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_scm_issue_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Req</label>
+            <language>en</language>
+            <name>x_177833_supply_ch_supply_chain_management</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-26 15:40:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6340dcdbdb330300e51e72ffbf961953</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-26 15:40:47</sys_updated_on>
+            <value>scm_issue_type_req</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_scm_issue_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Invoice</label>
+            <language>en</language>
+            <name>x_177833_supply_ch_supply_chain_management</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-26 15:40:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ef40dcdbdb330300e51e72ffbf961953</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-26 15:40:47</sys_updated_on>
+            <value>scm_issue_type_invoice</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_scm_issue_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_177833_supply_ch_supply_chain_management</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-26 15:40:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6f40dcdbdb330300e51e72ffbf961954</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-26 15:40:47</sys_updated_on>
+            <value>scm_issue_type_other</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_choice_scm_issue_type</element>
+            <name>x_177833_supply_ch_supply_chain_management</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-26 15:40:47</sys_created_on>
+            <sys_id>6740dcdbdb330300e51e72ffbf961946</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_choice_scm_issue_type</sys_name>
+            <sys_package display_value="Supply Chain Management" source="x_177833_supply_ch">9ab54093db330300e51e72ffbf9619d2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Supply Chain Management">9ab54093db330300e51e72ffbf9619d2</sys_scope>
+            <sys_update_name>sys_choice_x_177833_supply_ch_supply_chain_management_u_choice_scm_issue_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-26 15:40:47</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
