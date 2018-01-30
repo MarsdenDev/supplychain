@@ -14,7 +14,7 @@
         <label>Supply Chain Management</label>
         <live_feed_enabled>false</live_feed_enabled>
         <name>x_177833_supply_ch_supply_chain_management</name>
-        <number_ref display_value="SUP">46aedfc0db001300e51e72ffbf9619e1</number_ref>
+        <number_ref display_value="SCM">46aedfc0db001300e51e72ffbf9619e1</number_ref>
         <provider_class/>
         <read_access>true</read_access>
         <super_class/>

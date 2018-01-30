@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <css/>
+        <draft>false</draft>
+        <id>scm_ticket</id>
+        <internal>false</internal>
+        <public>true</public>
+        <roles/>
+        <short_description>test</short_description>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-29 19:33:37</sys_created_on>
+        <sys_id>cb322c58db801300e51e72ffbf96190d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>scm_ticket</sys_name>
+        <sys_package display_value="Supply Chain Management" source="x_177833_supply_ch">9ab54093db330300e51e72ffbf9619d2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Supply Chain Management">9ab54093db330300e51e72ffbf9619d2</sys_scope>
+        <sys_update_name>sp_page_cb322c58db801300e51e72ffbf96190d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-29 19:33:37</sys_updated_on>
+        <title>Supply Chain Request</title>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=cb322c58db801300e51e72ffbf96190d"/>
+</record_update>

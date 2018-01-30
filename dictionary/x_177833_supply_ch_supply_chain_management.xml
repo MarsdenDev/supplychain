@@ -68,7 +68,7 @@
         </element>
         <element label="Journal notes" max_length="4000" name="u_journal_scm_journal1" read_only="true" type="journal"/>
         <element label="New Long" max_length="40" name="u_longint_19" type="longint"/>
-        <element label="Assigned agent" mandatory="true" max_length="32" name="u_reference_scm_agent" reference="sys_user" type="reference"/>
+        <element label="Assigned agent" max_length="32" name="u_reference_scm_agent" reference="sys_user" type="reference"/>
         <element label="Requested for" mandatory="true" max_length="32" name="u_reference_scm_requested_for" reference="sys_user" type="reference"/>
         <element dependent="u_string_scm_contactphone" dependent_on_field="u_string_scm_contactphone" label="Requested for contact number:" mandatory="true" max_length="32" name="u_reference_scm_requested_for_number" reference="sys_user" type="reference" use_dependent_field="true"/>
         <element attributes="edge_encryption_enabled=true" label="MO company name" mandatory="true" max_length="200" name="u_string_scm_company_name" type="string"/>
