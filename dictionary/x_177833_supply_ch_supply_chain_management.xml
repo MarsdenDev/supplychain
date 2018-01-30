@@ -17,9 +17,9 @@
         </element>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Department" mandatory="true" max_length="40" name="u_choice_scm_department" type="string">
             <choice>
-                <element label="Choice 1" sequence="0" value="scm_department_option1"/>
-                <element label="Choice 2" sequence="1" value="scm_department_option2"/>
-                <element label="Choice 3" sequence="2" value="scm_department_option3"/>
+                <element label="Patient Call - Email" sequence="0" value="scm_department_option1"/>
+                <element label="RHM Call - Email" sequence="1" value="scm_department_option2"/>
+                <element label="Vendor Call - Email" sequence="2" value="scm_department_option3"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Issue category" mandatory="true" max_length="40" name="u_choice_scm_issue_category" type="string">
@@ -46,16 +46,19 @@
         </element>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Ticket priority" mandatory="true" max_length="40" name="u_choice_scm_priority_status" type="string">
             <choice>
-                <element label="1" sequence="0" value="scm_priority_status_option1"/>
-                <element label="2" sequence="1" value="scm_priority_status_option2"/>
-                <element label="3" sequence="2" value="scm_priority_status_option3"/>
+                <element label="1 - Urgent" sequence="0" value="scm_priority_status_option1"/>
+                <element label="2 - 2 Hour response" sequence="1" value="scm_priority_status_option2"/>
+                <element label="3 - Response by End of Business Day" sequence="2" value="scm_priority_status_option3"/>
+                <element label="4 - Response by End of Next Business Day" sequence="3" value="scm_priority_status_option4"/>
+                <element label="Other" sequence="4" value="scm_priority_status_option5"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" choice="1" default="scm_resolution_status_option1" label="Ticket status" max_length="40" name="u_choice_scm_resolution_status" type="string">
             <choice>
                 <element label="Open" sequence="0" value="scm_resolution_status_option1"/>
-                <element label="Choice 2" sequence="1" value="scm_resolution_status_option2"/>
-                <element label="Choice 3" sequence="2" value="scm_resolution_status_option3"/>
+                <element label="Closed" sequence="1" value="scm_resolution_status_option2"/>
+                <element label="Closed first call resolution" sequence="2" value="scm_resolution_status_option3"/>
+                <element label="Pending" sequence="3" value="scm_resolution_status_option4"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Vendor" mandatory="true" max_length="40" name="u_choice_scm_vendor" type="string">

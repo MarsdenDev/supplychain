@@ -6,39 +6,41 @@
         <assessment/>
         <content_page/>
         <device_type/>
-        <filter/>
-        <hint>Create a new record in the Supply Chain table</hint>
+        <filter table="x_177833_supply_ch_supply_chain_management">u_reference_scm_requested_forDYNAMIC90d1921e5f510100a9ad2572f2b477fe^EQ<item endquery="false" field="u_reference_scm_requested_for" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint>A list of my Supply Chain Tickets</hint>
         <homepage/>
         <image/>
-        <link_type>NEW</link_type>
+        <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title>Create new</mobile_title>
+        <mobile_title>My Supply Chain Requests</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_177833_supply_ch_supply_chain_management</name>
-        <order>100</order>
-        <override_menu_roles>true</override_menu_roles>
+        <order>150</order>
+        <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles/>
+        <roles>x_177833_supply_ch.supply_chain_management_user</roles>
         <survey/>
         <survey_overwrite>true</survey_overwrite>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-01-29 14:47:56</sys_created_on>
+        <sys_created_on>2018-01-30 16:02:33</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>0e506704db001300e51e72ffbf961971</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Create new</sys_name>
+        <sys_id>de3b74acdb001300e51e72ffbf96190a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Supply Chain Tickets</sys_name>
         <sys_overrides/>
         <sys_package display_value="Supply Chain Management" source="x_177833_supply_ch">9ab54093db330300e51e72ffbf9619d2</sys_package>
         <sys_policy/>
         <sys_scope display_value="Supply Chain Management">9ab54093db330300e51e72ffbf9619d2</sys_scope>
-        <sys_update_name>sys_app_module_0e506704db001300e51e72ffbf961971</sys_update_name>
+        <sys_update_name>sys_app_module_de3b74acdb001300e51e72ffbf96190a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-01-30 15:48:52</sys_updated_on>
+        <sys_updated_on>2018-01-30 16:02:33</sys_updated_on>
         <timeline_page/>
-        <title>Create new</title>
+        <title>My Supply Chain Tickets</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
